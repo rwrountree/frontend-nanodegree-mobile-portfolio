@@ -16,6 +16,7 @@ $RECYCLE.BIN/
 *.msp
 
 # Windows shortcuts
+/gulpfile.babel-compiled.js
 *.lnk
 ### OSX template
 .DS_Store
